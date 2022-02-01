@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SamarthAroraa/test_gh_actions/issues"
   },
-  "homepage": "https://github.com/SamarthAroraa/test_gh_actions#readme"
+  "homepage": "https://github.com/SamarthAroraa/test_gh_actions#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
